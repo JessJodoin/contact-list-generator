@@ -8,7 +8,7 @@ var peeps = [
   },
   {
     name: 'Venus ’Venturer',
-    email: 'cenus@theadventurer.com',
+    email: 'venus@theadventurer.com',
     tel: '+15551234',
     loc: [107477000, 108939000]
   },
@@ -17,5 +17,11 @@ var peeps = [
     email: 'thejugger@jupiter.com',
     tel: '+55551234',
     loc: [816040000, 740550000]
+  };
+  {
+    name: 'Pluto Passenger',
+    email: 'passenger@pluto.com',
+    tel: '+25551234',
+    loc: [837293000, 593827000]
   };
 ]
